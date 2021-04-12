@@ -1,0 +1,10 @@
+-Wetteranzeige
+-Wordcounter
+-Pop up banner (z.B. über cookies)
+-liste mit "mehr anzeigen" option
+-Slideshow
+-Header
+-Footer
+-Kontaktformular
+-Flipcard
+-Login Form
